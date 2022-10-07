@@ -1,4 +1,5 @@
-# New Project
+# New Project - Tutorial from WebDevSimplified
+link: https://github.com/WebDevSimplified/typescript-todo-list.git
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
